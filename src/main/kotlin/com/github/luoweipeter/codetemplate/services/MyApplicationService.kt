@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.luoweipeter.codetemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.luoweipeter.codetemplate.MyBundle
 
 class MyApplicationService {
 
